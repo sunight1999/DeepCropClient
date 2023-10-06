@@ -1,0 +1,1 @@
+g++ -o "/home/sunight/projects/DeepCropClient/bin/x64/Debug/DeepCropClient.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/sunight/projects/DeepCropClient/obj/x64/Debug/main.o
